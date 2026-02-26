@@ -1,0 +1,9 @@
+# Ignore model weights
+*.h5
+*.keras
+*.pkl
+*.ipynb_checkpoints/
+
+# Ignore datasets
+*.csv
+*.json
